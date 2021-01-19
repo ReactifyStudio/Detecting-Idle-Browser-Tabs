@@ -1,2 +1,2 @@
 # Detecting-Idle-Browser-Tabs
-Using the Browser-based JavaScript Page Visibility to pause video playbacks
+A Browser-based JavaScript Page Visibility API :rocket: to pause video playbacks in action :fire:
